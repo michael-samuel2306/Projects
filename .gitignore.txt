@@ -1,8 +1,0 @@
-**/GoLang/hash.go
-**/GoLang/read.go
-**/GoLang/conditions.go
-**/GoLang/onboarding.exe
-**/Golang/test.go
-**/Golang/proof_of_work.go
-**/GoLang/hello.go
-**/GoLang/hashfile.go
