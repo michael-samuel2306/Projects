@@ -1,8 +1,8 @@
-hash.go
-read.go
-conditions.go
-onboarding.exe
-**/Golang/test.go
-**/Golang/proof_of_work.go
-**/GoLang/hello.go
-**/GoLang/hashfile.go
+Projects/**/hash.go
+Projects/**/read.go
+Projects/**/conditions.go
+Projects/**/onboarding.exe
+Projects/**/test.go
+Projects/**/proof_of_work.go
+**Projects/**//GoLang/hello.go
+Projects/**/hashfile.go
